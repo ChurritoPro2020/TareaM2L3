@@ -1,0 +1,49 @@
+body {
+    background-color: #F5F5DC;
+    font-family: Arial, sans-serif;
+  }
+
+  h1 {
+    text-align: center;
+    font-size: 48px;
+    color: #006400;
+  }
+
+  h2 {
+    text-align: center;
+    font-size: 32px;
+    color: #8B4513;
+  }
+
+  p {
+    text-align: justify;
+    font-size: 24px;
+    color: #000000;
+  }
+
+  ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+  }
+
+  li {
+    margin: 0 10px;
+  }
+
+  a {
+    text-decoration: none;
+    font-size: 24px;
+    color: #006400;
+  }
+
+  a:hover {
+    color: #8B4513;
+  }
+
+  .imagen-dinosaurio {
+    width: 600px;
+    height: 300px;
+    margin: 0 600px;
+  }
